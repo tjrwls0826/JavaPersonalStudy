@@ -4,7 +4,7 @@ package 백준;
 
 import java.util.Scanner;
 
-public class AplusB {
+public class a_plus_b {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a,b;
